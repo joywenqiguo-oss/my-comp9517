@@ -1,0 +1,7 @@
+case_type,count
+top1_correct,3412
+top1_wrong,1588
+top1_wrong_top5_correct,937
+difficult_but_correct,725
+high_confidence_correct,1761
+high_confidence_wrong,54

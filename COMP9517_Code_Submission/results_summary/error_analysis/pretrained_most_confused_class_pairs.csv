@@ -1,0 +1,11 @@
+true_idx,pred_idx,error_count,true_species,pred_species,error_rate_within_true_class
+176,166,4,Quiscalus quiscula,Corvus frugilegus,0.4
+203,202,4,Platalea leucorodia,Platalea flavipes,0.4
+242,243,4,Gopherus agassizii,Testudo graeca,0.4
+372,370,4,Phlox hoodii,Leptosiphon nuttallii,0.4
+67,68,3,Icaricia icarioides,Lycaena helloides,0.3
+89,90,3,Polygonia c-album,Polygonia faunus,0.3
+98,49,3,Aglossa pinguinalis,Idia lubricalis,0.3
+103,105,3,Agriocnemis femina,Ischnura denticollis,0.3
+118,117,3,Trithemis kirbyi,Trithemis annulata,0.3
+238,237,3,Uta stansburiana,Urosaurus ornatus,0.3

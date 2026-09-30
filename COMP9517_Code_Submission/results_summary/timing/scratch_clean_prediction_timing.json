@@ -1,0 +1,10 @@
+{
+  "model": "scratch_resnet18",
+  "split": "clean",
+  "num_images": 5000,
+  "batch_size": 16,
+  "device": "mps",
+  "clean_sec": 9.953330125004868,
+  "seconds_per_image": 0.0019906660250009734,
+  "images_per_second": 502.34443519952623
+}

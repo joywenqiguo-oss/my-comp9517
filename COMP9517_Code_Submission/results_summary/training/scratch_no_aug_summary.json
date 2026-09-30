@@ -1,0 +1,22 @@
+{
+  "run_name": "scratch_no_aug",
+  "random_initialization": true,
+  "torchvision_weights": null,
+  "augment": false,
+  "num_classes": 500,
+  "num_train_images": 20000,
+  "num_val_images": 5000,
+  "image_size": 224,
+  "batch_size": 16,
+  "optimizer": "AdamW",
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "scheduler": "CosineAnnealingLR",
+  "best_epoch": 16,
+  "best_val_top1": 0.2154,
+  "best_val_top5": 0.4342,
+  "best_val_macro_f1": 0.21417198321451017,
+  "total_training_time_sec": 8584.763313293457,
+  "best_checkpoint": "/Users/joy/Downloads/COMP9517_Project/results/models/scratch_no_aug_best.pth",
+  "last_checkpoint": "/Users/joy/Downloads/COMP9517_Project/results/models/scratch_no_aug_last.pth"
+}

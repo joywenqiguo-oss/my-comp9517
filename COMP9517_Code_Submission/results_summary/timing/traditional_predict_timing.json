@@ -1,0 +1,19 @@
+{
+  "clean_encode_sec": 265.8278741836548,
+  "noise_0.05_encode_sec": 371.75921630859375,
+  "noise_0.1_encode_sec": 348.84680247306824,
+  "noise_0.2_encode_sec": 342.7564697265625,
+  "blur_3_encode_sec": 306.5564248561859,
+  "blur_5_encode_sec": 193.80348992347717,
+  "blur_7_encode_sec": 165.0106132030487,
+  "brightness_0.8_encode_sec": 228.4822952747345,
+  "brightness_0.6_encode_sec": 220.34496331214905,
+  "brightness_0.4_encode_sec": 178.93132972717285,
+  "contrast_0.8_encode_sec": 232.244042634964,
+  "contrast_0.6_encode_sec": 220.53852367401123,
+  "contrast_0.4_encode_sec": 179.2526285648346,
+  "jpeg_70_encode_sec": 266.18124985694885,
+  "jpeg_40_encode_sec": 283.40064311027527,
+  "jpeg_20_encode_sec": 292.65403032302856,
+  "total_sec": 4096.59059715271
+}

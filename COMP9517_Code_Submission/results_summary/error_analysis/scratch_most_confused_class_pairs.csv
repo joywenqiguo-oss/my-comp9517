@@ -1,0 +1,11 @@
+true_idx,pred_idx,error_count,true_species,pred_species,error_rate_within_true_class
+386,385,6,Lotus pedunculatus,Lotus corniculatus,0.6
+57,54,5,Hypagyrtis unipunctata,Besma quercivoraria,0.5
+7,6,4,Aphonopelma eutylenum,Aphonopelma chalcodes,0.4
+37,38,4,Myzinum quinquecinctum,Polistes dominula,0.4
+113,103,4,Lestes inaequalis,Agriocnemis femina,0.4
+141,231,4,Boana rosenbergi,Imantodes cenchoa,0.4
+213,214,4,Tragelaphus angasii,Phacochoerus africanus,0.4
+373,340,4,Lysimachia clethroides,Pholistoma membranaceum,0.4
+16,26,3,Clytra laeviuscula,Cercopis vulnerata,0.3
+36,258,3,Dasymutilla occidentalis,Sarcoscypha occidentalis,0.3

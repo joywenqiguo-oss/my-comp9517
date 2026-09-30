@@ -1,0 +1,4 @@
+model,model_label,clean_top1,mean_degraded_top1,mean_top1_drop,mean_top1_retention_pct,mean_macro_f1_drop,worst_condition,worst_condition_top1,best_retention_condition
+traditional,Traditional,0.1074,0.06969333333333334,0.037706666666666666,64.89137181874612,0.0349694716644345,blur 7.0,0.009,jpeg 40.0
+scratch,Scratch ResNet18,0.321,0.26824,0.05276000000000001,83.56386292834891,0.046660865684168065,blur 7.0,0.1546,brightness 0.8
+pretrained,Pretrained ResNet18,0.6824,0.5720799999999999,0.11031999999999999,83.8335287221571,0.10844482725364048,noise 0.2,0.1548,brightness 0.8

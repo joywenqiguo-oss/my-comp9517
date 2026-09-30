@@ -1,0 +1,11 @@
+true_idx,pred_idx,error_count,true_species,pred_species,error_rate_within_true_class
+374,297,4,Lysimachia quadriflora,Carex hystericina,0.4
+44,21,3,Desmia funeralis,Callistethus marginatus,0.3
+61,46,3,Opisthograptis luteolata,Microtheoris vibicalis,0.3
+146,148,3,Buteo swainsoni,Haliaeetus albicilla,0.3
+150,148,3,Anas gracilis,Haliaeetus albicilla,0.3
+154,150,3,Cerorhinca monocerata,Anas gracilis,0.3
+248,247,3,Cominella adspersa,Cyrtopleura costata,0.3
+322,274,3,Erigeron canadensis,Cladophora columbiana,0.3
+326,260,3,Helianthus maximiliani,Leucoagaricus leucothites,0.3
+327,325,3,Isocoma acradenia,Gutierrezia sarothrae,0.3

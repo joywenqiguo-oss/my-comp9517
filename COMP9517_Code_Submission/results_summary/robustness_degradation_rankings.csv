@@ -1,0 +1,6 @@
+degradation,strongest_severity,best_absolute_model,best_absolute_top1_pct,best_retention_model,best_retention_pct
+noise,0.2,Scratch ResNet18,17.28,Scratch ResNet18,53.83177570093458
+blur,7.0,Pretrained ResNet18,32.98,Pretrained ResNet18,48.32942555685815
+brightness,0.4,Pretrained ResNet18,63.959999999999994,Pretrained ResNet18,93.72801875732706
+contrast,0.4,Pretrained ResNet18,60.519999999999996,Pretrained ResNet18,88.68698710433762
+jpeg,20.0,Pretrained ResNet18,62.839999999999996,Scratch ResNet18,94.57943925233644

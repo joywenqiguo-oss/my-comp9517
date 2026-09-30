@@ -1,0 +1,7 @@
+{
+  "pass1_reservoir_sampling_sec": 1055.111011505127,
+  "kmeans_train_sec": 7.183339357376099,
+  "pass2_encode_train_sec": 1061.525145292282,
+  "svm_train_sec": 501.6246337890625,
+  "total_sec": 2625.4441299438477
+}

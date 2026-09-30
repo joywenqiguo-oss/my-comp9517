@@ -1,0 +1,11 @@
+{
+  "seed": 9517,
+  "num_classes": 500,
+  "train_per_class": 40,
+  "val_per_class": 10,
+  "test_per_class": 10,
+  "num_train_images": 20000,
+  "num_val_images": 5000,
+  "num_test_images": 5000,
+  "note": "Training and validation splits are sampled from train_mini. Test split is sampled from official validation images."
+}
